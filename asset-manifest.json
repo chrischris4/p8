@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/p8/static/css/main.0c78d478.css",
-    "main.js": "/p8/static/js/main.a4231f8b.js",
+    "main.css": "/p8/static/css/main.bbef8af9.css",
+    "main.js": "/p8/static/js/main.9ae8060e.js",
     "static/media/mimifleur.webp": "/p8/static/media/mimifleur.0e6e3a642ca3d95b096e.webp",
     "static/media/Booki.webp": "/p8/static/media/Booki.2fde9d88cd72273ec848.webp",
     "static/media/adrar.webp": "/p8/static/media/adrar.074e27fd2471f5402415.webp",
@@ -19,19 +19,15 @@
     "static/media/mvg2.webp": "/p8/static/media/mvg2.96b7d7456ac117720580.webp",
     "static/media/sophiebluel3.webp": "/p8/static/media/sophiebluel3.5c96a00b7c7753fe27c7.webp",
     "static/media/backend.webp": "/p8/static/media/backend.33a4507c2b2633269e04.webp",
-    "static/media/gitFooter.webp": "/p8/static/media/gitFooter.891e4a7ba70731ffb1a8.webp",
     "static/media/outil.webp": "/p8/static/media/outil.b9aa0b0ad4eca1c73428.webp",
-    "static/media/linkedinfooter.webp": "/p8/static/media/linkedinfooter.ae1bfcaf6c6c514bb8ff.webp",
-    "static/media/git.webp": "/p8/static/media/git.120b29f6f93edd5136e8.webp",
-    "static/media/linkedin.webp": "/p8/static/media/linkedin.0e50295ea9587d980319.webp",
     "static/media/backHome.webp": "/p8/static/media/backHome.b2a7c3a3242bbffab68e.webp",
     "static/media/frontend.webp": "/p8/static/media/frontend.2a46dbbc816dcfd18d53.webp",
     "index.html": "/p8/index.html",
-    "main.0c78d478.css.map": "/p8/static/css/main.0c78d478.css.map",
-    "main.a4231f8b.js.map": "/p8/static/js/main.a4231f8b.js.map"
+    "main.bbef8af9.css.map": "/p8/static/css/main.bbef8af9.css.map",
+    "main.9ae8060e.js.map": "/p8/static/js/main.9ae8060e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c78d478.css",
-    "static/js/main.a4231f8b.js"
+    "static/css/main.bbef8af9.css",
+    "static/js/main.9ae8060e.js"
   ]
 }
