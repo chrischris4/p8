@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/p8/static/css/main.a1b3baeb.css",
-    "main.js": "/p8/static/js/main.f26ae674.js",
+    "main.css": "/p8/static/css/main.c0c03f21.css",
+    "main.js": "/p8/static/js/main.da704534.js",
     "static/media/mimifleur-min.webp": "/p8/static/media/mimifleur-min.f020c8b71784e2a9dc3c.webp",
     "static/media/sophiebluel2-min.webp": "/p8/static/media/sophiebluel2-min.2ae4e8f58a8faf93a94a.webp",
     "static/media/Booki-min.webp": "/p8/static/media/Booki-min.ca6d3f622b8c7111dcc2.webp",
@@ -16,18 +16,20 @@
     "static/media/adrar-min.webp": "/p8/static/media/adrar-min.8b861d7cf0718b7e34e9.webp",
     "static/media/mvg3-min.webp": "/p8/static/media/mvg3-min.d508cd2af8ab5b7833f7.webp",
     "static/media/backend-min.webp": "/p8/static/media/backend-min.2c22ff47f27bb7511232.webp",
+    "static/media/skype.webp": "/p8/static/media/skype.cc4a60e7541cc74ce357.webp",
     "static/media/mvg2-min.webp": "/p8/static/media/mvg2-min.fb8899a459d511205d35.webp",
     "static/media/sophiebluel3-min.webp": "/p8/static/media/sophiebluel3-min.468bde4797540943b4d6.webp",
     "index.html": "/p8/index.html",
     "static/media/outil-min.webp": "/p8/static/media/outil-min.9643331e6275cd8b515f.webp",
     "static/media/frontend-min.webp": "/p8/static/media/frontend-min.e5aa0a95a03c89774574.webp",
+    "static/media/linkedin.webp": "/p8/static/media/linkedin.c40cf6952c3a606fb8d5.webp",
     "static/media/backHome-min.webp": "/p8/static/media/backHome-min.be68b1e338961f19e274.webp",
     "static/media/vectorup-min.webp": "/p8/static/media/vectorup-min.f5cee1ba17facfb3ae13.webp",
-    "main.a1b3baeb.css.map": "/p8/static/css/main.a1b3baeb.css.map",
-    "main.f26ae674.js.map": "/p8/static/js/main.f26ae674.js.map"
+    "main.c0c03f21.css.map": "/p8/static/css/main.c0c03f21.css.map",
+    "main.da704534.js.map": "/p8/static/js/main.da704534.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1b3baeb.css",
-    "static/js/main.f26ae674.js"
+    "static/css/main.c0c03f21.css",
+    "static/js/main.da704534.js"
   ]
 }
