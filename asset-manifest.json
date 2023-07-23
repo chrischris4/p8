@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/p8/static/css/main.37ba36b6.css",
-    "main.js": "/p8/static/js/main.49967854.js",
+    "main.css": "/p8/static/css/main.a1b3baeb.css",
+    "main.js": "/p8/static/js/main.f26ae674.js",
     "static/media/mimifleur-min.webp": "/p8/static/media/mimifleur-min.f020c8b71784e2a9dc3c.webp",
     "static/media/sophiebluel2-min.webp": "/p8/static/media/sophiebluel2-min.2ae4e8f58a8faf93a94a.webp",
     "static/media/Booki-min.webp": "/p8/static/media/Booki-min.ca6d3f622b8c7111dcc2.webp",
@@ -23,11 +23,11 @@
     "static/media/frontend-min.webp": "/p8/static/media/frontend-min.e5aa0a95a03c89774574.webp",
     "static/media/backHome-min.webp": "/p8/static/media/backHome-min.be68b1e338961f19e274.webp",
     "static/media/vectorup-min.webp": "/p8/static/media/vectorup-min.f5cee1ba17facfb3ae13.webp",
-    "main.37ba36b6.css.map": "/p8/static/css/main.37ba36b6.css.map",
-    "main.49967854.js.map": "/p8/static/js/main.49967854.js.map"
+    "main.a1b3baeb.css.map": "/p8/static/css/main.a1b3baeb.css.map",
+    "main.f26ae674.js.map": "/p8/static/js/main.f26ae674.js.map"
   },
   "entrypoints": [
-    "static/css/main.37ba36b6.css",
-    "static/js/main.49967854.js"
+    "static/css/main.a1b3baeb.css",
+    "static/js/main.f26ae674.js"
   ]
 }
